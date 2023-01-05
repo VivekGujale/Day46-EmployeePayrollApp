@@ -1,4 +1,4 @@
 let properties = {
-    home_page: "new_home.html",
-    add_emp_payroll_page: "EmployeePayrollApp.html"
+    home_page: "home_page.html",
+    add_emp_payroll_page: "../Day46/EmployeePayrollApp.html"
 };

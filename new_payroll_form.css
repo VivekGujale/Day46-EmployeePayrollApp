@@ -109,6 +109,11 @@ label {
     color: red;
 }
 
+.date-error {
+    font-size: small;
+    color: red;
+}
+
 .profile-radio-content {
     display: flex;
     flex-direction: row;
