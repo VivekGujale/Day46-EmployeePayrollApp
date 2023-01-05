@@ -1,9 +1,3 @@
-/**Ability to create Employee Payroll Data with id, name and salary */
-/**Ability to extend Employee Payroll Data to store gender and start date */
-/**Ability to check the name starts with capital and has atleast 3 characters - Use Regex Pattern - Use Try Catch in case of Error */
-/**Ability to check the employee id and salary are non zero positive number, the gender is M or F and date is not a future date
-- Use Regex Pattern
-- Use Try Catch in case of Error */
 class EmployeePayrollData {
     //property
     //getter and setter method
